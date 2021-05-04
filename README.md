@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project gets data from the The Movie Data Base API using Axios and puts it on a grid. Created a functional search bar to search for the movies the database has.
 
 ## Available Scripts
 
