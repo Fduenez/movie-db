@@ -1,0 +1,22 @@
+.toolbar {
+    width: 100%;
+    overflow: hidden;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+.leftContent{
+    margin:20px
+}
+.titleName{
+    margin: 0;
+    padding: 0;
+}
+.rightContent{
+    align-items: flex-end;
+    margin: 20px;
+}
+
+.name {
+    color: white;
+}
